@@ -4,16 +4,4 @@ __pycache__/
 .streamlit/secrets.toml
 chroma_db/
 psychology2e.pdf
-.ipynb_checkpoints/__pycache__/
-*.pyc
-.env
-.streamlit/secrets.toml
-chroma_db/
-psychology2e.pdf
-.ipynb_checkpoints/__pycache__/
-*.pyc
-.env
-.streamlit/secrets.toml
-chroma_db/
-psychology2e.pdf
-.ipynb_checkpoints/ر
+.ipynb_checkpoints/
